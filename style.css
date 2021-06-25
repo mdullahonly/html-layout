@@ -1,0 +1,311 @@
+
+.h1{
+	color: darkblue;text-align: center;
+}
+
+.header{
+	background-color: red;
+	min-height: 80px;
+}
+.container{
+ overflow: hidden;
+}
+.blog{
+background-color: green;
+width: 50%;
+min-height: 150px;
+float: right;
+}
+.content{
+background-color: lime;
+width: 50%;
+min-height: 150px;
+float: left;
+}
+.footer{
+background-color: black;
+min-height: 80px;
+}
+
+
+
+
+.header2{
+	background-color: greenyellow;
+	min-height: 80px;
+}
+.wraper{
+	overflow: hidden;
+
+}
+.service1{
+	background-color: black;
+	width: 33.33%;
+	min-height: 200px;
+	float: left;
+}
+.service2{
+	background-color: gold;
+	width: 33.33%;
+	min-height: 200px;
+	float: left;
+}
+.service3{
+	background-color: red;
+	width: 33.33%;
+	min-height: 200px;
+	float: left;
+}
+.footer2{
+	background-color: blue;
+	min-height: 80px;
+
+}
+
+
+
+.header3{
+	background-color: gold;
+	min-height: 80px;
+}
+.banner{
+	background-color: greenyellow;
+	min-height: 300px;
+}
+.container2{
+	overflow: hidden;
+
+}
+.first{
+	background-color: black;
+	min-height: 200px;
+	width: 33.33%;
+	float: left;
+	
+
+}
+.second{
+	background-color: blue;
+	min-height: 200px;
+	width: 33.33%;
+	float: left;
+	
+
+}
+.third{
+	background-color:green ;
+	min-height: 200px;
+	width: 33.33%;
+	float: left;
+}
+.about{
+	overflow: hidden;
+}
+.image{
+	background-color: grey;
+	min-height: 300px;
+	width: 60%;
+	float:left;
+
+}
+.article{
+	background-color: lime;
+	min-height: 300px;
+	width: 40%;
+	float: left;
+
+}
+.footer3{
+	background-color: goldenrod;
+	min-height: 80px;
+}
+
+.header4{
+	overflow: hidden;
+}
+.Logo{
+	background-color: lightcoral;
+	min-height: 80px;
+	width: 30%;
+	float: left;
+	text-align: center;color: black;font-size: 50px;font-family: monospace;
+
+}
+.Menu{
+	background-color: goldenrod;
+	min-height: 80px;
+	width: 70%;
+	float: right;
+	text-align: center;font-size: 30px;
+}
+.section2{
+	overflow: hidden;
+}
+.inbox1{
+	background-color: royalblue;
+	width: 33.33%;
+	min-height: 300px;
+	float: left;
+}
+.inbox2{
+	background-color: chocolate;
+	width: 33.33%;
+	min-height: 300px;
+	float: left;
+}
+.inbox3{
+	background-color: green;
+	width: 33.33%;
+	min-height: 300px;
+	float: left;
+}
+
+.MT{
+	background-color: mediumblue;
+	width: 100%;
+	min-height: 100px;
+}
+.MC{
+	background-color: mediumpurple;
+	width: 100%;
+	min-height: 100px;
+}
+.MB{
+	background-color: mediumseagreen;
+	width: 100%;
+	min-height: 100px;
+}
+.MC1{
+	background-color: firebrick;
+	width: 50%;
+	min-height: 100px;
+	float: left;
+
+}
+.MC2{
+	background-color: pink;
+	width: 50%;
+	min-height: 100px;
+	float: right;
+}
+.footer4{
+	background-color: darkmagenta;
+	width: ;
+	min-height: 80px;
+}
+
+
+
+.body{
+	background-color: blueviolet;
+	min-height: 2250px;
+}
+.header6{
+	background-color: red;
+	width: 95%;
+	min-height: 80px;
+	margin:10px ;
+	
+}
+.companybanner{
+	background-color: seagreen;
+	width: 80%;
+	min-height: 150px;
+	margin: 10px;
+
+}
+.heading{
+	text-align: center;color: white;
+}
+.serv{
+	background-color: white;
+	width: 25%;border-radius: 20px;
+	min-height: 200px;
+	float: left;
+	margin: 30px;
+}
+.serv1{
+	background-color: white;
+	width: 25%;border-radius: 20px;
+	min-height: 200px;
+	float: left;
+	margin: 30px;
+}
+.serv2{
+	background-color: white;
+	width: 25%;border-radius: 20px;
+	min-height: 200px;
+	float: left;
+	margin: 30px;
+}
+.serv3{
+	background-color: white;
+	width: 25%;border-radius: 20px;
+	min-height: 200px;
+	float: left;
+	margin: 30px;
+}
+.serv4{
+	background-color: white;
+	width: 25%;border-radius: 20px;
+	min-height: 200px;
+	float: left;
+	margin: 30px;
+}
+.serv5{
+	background-color: white;
+	width: 25%;border-radius: 20px;
+	min-height: 200px;
+	float: left;
+	margin: 30px;
+}
+.about1{
+	background-color: white;
+	width: 40%;border-radius: 20px;
+	min-height: 400px;
+	float: left;
+	margin: 30px;
+}
+.about2{
+	background-color: white;
+	width: 40%;border-radius: 20px;
+	min-height: 400px;
+	float: left;
+	margin: 30px;
+}
+.testimonial{
+	background-color:navy;
+	width: 80%;border-radius: 20px;
+	min-height: 200px;
+	margin-left: 60px;
+
+}
+.map{
+	background-color: greenyellow;
+	width: 40%;border-radius: 20px;
+	min-height: 250px;
+	float: left;
+	margin: 30px;
+
+}
+.form{
+	background-color: seagreen;
+	width: 40%;border-radius: 20px;
+	min-height: 250px;
+	float: right;
+	margin: 30px;
+}
+.footer5{
+	background-color: goldenrod;
+	width: 100%;
+	min-height: 80px;
+	float: left;
+}
+
+
+
+
+
+
+
+
